@@ -17,4 +17,15 @@
         android:layout_height="wrap_content"
         android:textSize="55dp"
         android:text="MY BRANCH DDDDDDD" />
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="55dp"
+        android:text="ANOTHER TEXT DDDDDDD"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="101dp" />
 </RelativeLayout>
