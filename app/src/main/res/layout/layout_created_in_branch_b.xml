@@ -5,5 +5,5 @@
 <TextView
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:text="new layout created in A, and text has been added to it"/>
+    android:text="new layout created in B, and text has been added to it"/>
 </LinearLayout>
